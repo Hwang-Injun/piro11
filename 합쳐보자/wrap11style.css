@@ -1,0 +1,39 @@
+
+        *{
+            box-sizing: border-box;
+        }
+        .wrap11{
+           border: 1px solid;
+     width: 2045.33px;
+    height: 691.33px;
+    color: #444444;
+    padding: 60px 0px 60px 0px;
+    margin: 0 auto;
+        }
+.wrap11-con{
+       border: 1px solid;
+     width: 1140px;
+    height:555.33px;
+    color: #444444;
+    padding: 0px 15px;
+    margin: 0px 452.667px;
+}
+.wrap11 .wrap11-top{border: 1px solid;
+    magin: 0 auto;
+   width: 1110px;
+    height: 165.33px;
+    font-size: 16px;
+
+}
+.wrap11 .wrap11-num1,.wrap11-num2,.wrap11-num3,.wrap11-num4,.wrap11-num5,.wrap11-num6{border: 1px solid;
+    magin: 0 auto;
+   width: 1110px;
+    height: 64px;
+    font-size: 20px;
+    color: #000000;
+   padding: 22px 20px 22px 0px;
+}
+
+
+
+

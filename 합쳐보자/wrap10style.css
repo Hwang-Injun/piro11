@@ -1,0 +1,43 @@
+
+        *{
+
+            box-sizing: border-box;
+            margin: 0 auto;
+        }
+.wrap10 {margin: 0 auto; overflow: hidden;
+    border: 1px solid;
+    width: 2045.33px;
+    height: 739.33px;
+    color: #444444;
+    font-size: 16px;
+    background-color: #F5F8FD;
+    padding: 80px 0px;
+}
+.wrap10-header{
+    margin: 0 auto;
+    border: 1px solid;
+    width: 1110px;
+    height: 165.33px;
+}
+    .wrap10-card{
+        margin: 0 auto; border: 1px solid;
+    overflow: hidden;
+         /*display: inline-block; text-align: center;*/
+}
+
+
+        .wrap10-card1, .wrap10-card2,.wrap10-card3 {
+
+
+            display: inline; text-align: center;
+            margin: 0 auto;
+border: 1px solid;
+            /*overflow: hidden;*/
+/*float:left;*/
+            width: 349.98px;
+            height: 414px;
+            background-color: #FFFFFF;
+            padding: 36px 0px;
+        }
+
+
